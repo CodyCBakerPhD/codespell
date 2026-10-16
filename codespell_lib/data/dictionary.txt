@@ -13542,6 +13542,7 @@ cobvers->covers
 coccinele->coccinelle
 cockateel->cockatiel
 cockateels->cockatiels
+cocnnected->connected
 coctail->cocktail
 cocument->document
 cocumentation->documentation
